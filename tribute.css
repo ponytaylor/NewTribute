@@ -10,7 +10,6 @@ body {
 
 p {
     font-size: 20px;
-    color: blue;
 }
 
 .red-text {
@@ -60,11 +59,14 @@ main {
   figure {
       text-align: center;
       display: table;
-      //max-width: 50%; 
+      /*max-width: 50%; */
       margin: 10px auto;
   }
+
   .infotext{
-    width:80%;
-    background-color: wheat;
+    width:70%;
+    background-color: rgb(230, 225, 163);
     margin: auto;
   }
+
+ 
